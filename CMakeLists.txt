@@ -30,4 +30,6 @@ target_link_libraries(boost_program_options
         Boost::static_assert
         Boost::throw_exception
         Boost::type_traits
+        Boost::tokenizer
+
 )
